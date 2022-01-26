@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJZ3nvxpFMDX6gG+HzHrPd+dvj0cJGGH/oCTL4+36x28APnWfJLReFbDlKkbzaY7L9hLymPLmqNTNJlAc21a8Q==",
+  "dgSpecHash": "qhAupQw+lg6Te64JXR3oowPHGRIyHksF2R+HATUrZTPPr+AZvoBGrU66tJEYpD38uep8yvqSIqZ+P2eLYkXwwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\robxb\\Desktop\\repos\\CarLotSimulator\\CarLotSimulatorApp\\CarLotSimulator\\CarLotSimulator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\robxb\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\robxb\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\robxb\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\robxb\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\robxb\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\robxb\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\robxb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
